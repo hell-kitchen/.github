@@ -1,4 +1,4 @@
-# hell-kichen
+# hell-kitchen
 
 ## Немного о проекте
 
